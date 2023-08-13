@@ -1,4 +1,5 @@
 # first_project
+![image](https://github.com/FelopaterAshraf/smart_shop/assets/123656739/a4023937-6780-4666-8947-a2f82e476528)
 
 A new Flutter project.
 
